@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.yw0TnheAGN-LPneDaTlaxwHaD8?pid=ImgDet&rs=1)]
+[![MasterHead](https://th.bing.com/th/id/OIP.yw0TnheAGN-LPneDaTlaxwHaD8?pid=ImgDet&rs=1)
 <h1 align="center">Hi 👋, I'm Dephney Mokabane</h1>
 <h3 align="center">An evolving full-stack developer</h3>
 - 🔭 I’m currently working on **An e-commerce site for ladies' shoes called Shoedom. Project stack : React,python,flask,postgresql,vscode,insomnia**
