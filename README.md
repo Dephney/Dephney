@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dephney Mokabane</h1>
 <h3 align="center">An evolving full-stack developer</h3>
 
-- 🌱 I’m currently learning **Azure OpenAI, Angular, ASP.NET Core **
+- 🌱 I’m currently learning **Azure OpenAI, Angular, ASP.NET Core**
 
 - 👯 I’m looking to collaborate on **Any OpenAI projects**
 
