@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Azure OpenAI, Angular, ASP.NET Core**
 
-- 👯 I’m looking to collaborate on **Any OpenAI projects**
+- 👯 I’m looking to collaborate on **Any OpenAI, Angular and .NET projects**
 
 - 💬 Ask me about **Angular**
 
