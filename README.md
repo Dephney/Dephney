@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **mmagotsheung@gmail.com**
+- 📫 How to reach me **mokabanedephney@gmail.com**
 
 - ⚡ Fun fact **I believe in extraterrestrial life**
 
